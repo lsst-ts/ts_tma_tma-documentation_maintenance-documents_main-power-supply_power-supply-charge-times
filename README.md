@@ -5,7 +5,7 @@ available.
 
 ## Performed tests
 
-### Capacitor bank cabinets active: 1
+### Active capacitor bank cabinets: 1
 
 - Test date: 2023-03-07 14:03 UTC
 - Total charge time: 25 seconds
@@ -13,7 +13,7 @@ available.
   - Stabilization: ~12.5 seconds
   - Fast charge part: 2.5 seconds
 
-### Capacitor bank cabinets active: 2
+### Active capacitor bank cabinets: 2
 
 - Test date: 2023-03-07 14:07 UTC
 - Total charge time: 40 seconds
@@ -21,7 +21,7 @@ available.
   - Stabilization: ~17.5 seconds
   - Fast charge part: 4.5 seconds
 
-### Capacitor bank cabinets active: 3
+### Active capacitor bank cabinets: 3
 
 - Test date: 2023-03-07 14:11 UTC
 - Total charge time: 45 seconds
@@ -29,7 +29,7 @@ available.
   - Stabilization: ~19 seconds
   - Fast charge part: 5 seconds
 
-### Capacitor bank cabinets active: 6
+### Active capacitor bank cabinets: 6
 
 - Test date: 2023-03-07 14:23 UTC
 - Total charge time: 75 seconds
@@ -37,7 +37,7 @@ available.
   - Stabilization: ~18 seconds
   - Fast charge part: 11 seconds
 
-### Capacitor bank cabinets active: 8
+### Active capacitor bank cabinets: 8
 
 - Test date: 2023-03-07 14:29 UTC
 - Total charge time: 89 seconds
